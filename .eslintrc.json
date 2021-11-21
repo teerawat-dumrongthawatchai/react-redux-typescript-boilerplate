@@ -51,7 +51,8 @@
     ],
     "arrow-body-style": "off",
     "semi": ["error", "always"],
-    "default-param-last": "off"
+    "default-param-last": "off",
+    "@typescript-eslint/no-explicit-any": "off"
   },
   "settings": {
     "import/resolver": {
